@@ -1,0 +1,101 @@
+keyword,title,position,price,raw_price,rating,reviews,platform,delivery,brand,discount_percentage
+beauty,Essence Mascara Lash Princess,1,9.99,11.159517426273458,2.56,3,DummyJSON Sample API,Unknown,Essence,10.48
+beauty,Eyeshadow Palette with Mirror,2,19.99,24.4346656887911,2.86,3,DummyJSON Sample API,Unknown,Glamour Beauty,18.19
+beauty,Powder Canister,3,14.99,16.62599822537711,4.64,3,DummyJSON Sample API,Unknown,Velvet Touch,9.84
+beauty,Red Lipstick,4,12.99,14.78825136612022,4.36,3,DummyJSON Sample API,Unknown,Chic Cosmetics,12.16
+beauty,Red Nail Polish,5,8.99,10.151309846431799,4.32,3,DummyJSON Sample API,Unknown,Nail Couture,11.44
+fragrances,Calvin Klein CK One,6,49.99,50.95301192538987,4.37,3,DummyJSON Sample API,Unknown,Calvin Klein,1.89
+fragrances,Chanel Coco Noir Eau De,7,129.99,155.69529284944306,4.26,3,DummyJSON Sample API,Unknown,Chanel,16.51
+fragrances,Dior J'adore,8,89.99,105.52298311444652,3.8,3,DummyJSON Sample API,Unknown,Dior,14.72
+fragrances,Dolce Shine Eau de,9,69.99,70.4266452002415,3.96,3,DummyJSON Sample API,Unknown,Dolce & Gabbana,0.62
+fragrances,Gucci Bloom Eau de,10,79.99,93.43534633804462,2.74,3,DummyJSON Sample API,Unknown,Gucci,14.39
+furniture,Annibale Colombo Bed,11,1899.99,2078.0815924751178,4.77,3,DummyJSON Sample API,Unknown,Annibale Colombo,8.57
+furniture,Annibale Colombo Sofa,12,2499.99,2920.5490654205605,3.92,3,DummyJSON Sample API,Unknown,Annibale Colombo,14.4
+furniture,Bedside Table African Cherry,13,299.99,370.7699913484118,2.87,3,DummyJSON Sample API,Unknown,Furniture Co.,19.09
+furniture,Knoll Saarinen Executive Conference Chair,14,499.99,510.24594346361874,4.88,3,DummyJSON Sample API,Unknown,Knoll,2.01
+furniture,Wooden Bathroom Sink With Mirror,15,799.99,877.1820175438596,3.59,3,DummyJSON Sample API,Unknown,Bath Trends,8.8
+groceries,Apple,16,1.99,2.277409018081941,4.19,3,DummyJSON Sample API,Unknown,,12.62
+groceries,Beef Steak,17,12.99,14.371058745436441,4.47,3,DummyJSON Sample API,Unknown,,9.61
+groceries,Cat Food,18,8.99,9.942490599424906,3.13,3,DummyJSON Sample API,Unknown,,9.58
+groceries,Chicken Meat,19,9.99,11.575898030127462,3.19,3,DummyJSON Sample API,Unknown,,13.7
+groceries,Cooking Oil,20,4.99,5.503474136980258,4.8,3,DummyJSON Sample API,Unknown,,9.33
+groceries,Cucumber,21,1.49,1.4923878205128205,4.07,3,DummyJSON Sample API,Unknown,,0.16
+groceries,Dog Food,22,10.99,12.247854675136521,4.55,3,DummyJSON Sample API,Unknown,,10.27
+groceries,Eggs,23,2.99,3.361439010680158,2.53,3,DummyJSON Sample API,Unknown,,11.05
+groceries,Fish Steak,24,14.99,15.652083115798266,3.78,3,DummyJSON Sample API,Unknown,,4.23
+groceries,Green Bell Pepper,25,1.29,1.2920673076923077,3.25,3,DummyJSON Sample API,Unknown,,0.16
+groceries,Green Chili Pepper,26,0.99,1.0,3.66,3,DummyJSON Sample API,Unknown,,1.0
+groceries,Honey Jar,27,6.99,8.165887850467291,3.97,3,DummyJSON Sample API,Unknown,,14.4
+groceries,Ice Cream,28,5.49,6.012484941408389,3.39,3,DummyJSON Sample API,Unknown,,8.69
+groceries,Juice,29,3.99,4.53718444393905,3.94,3,DummyJSON Sample API,Unknown,,12.06
+groceries,Kiwi,30,2.49,2.937013446567587,4.93,3,DummyJSON Sample API,Unknown,,15.22
+groceries,Lemon,31,0.79,0.8748615725359912,3.53,3,DummyJSON Sample API,Unknown,,9.7
+groceries,Milk,32,3.49,4.04590772084396,2.61,3,DummyJSON Sample API,Unknown,,13.74
+groceries,Mulberry,33,4.99,5.7270744863996335,4.95,3,DummyJSON Sample API,Unknown,,12.87
+groceries,Nescafe Coffee,34,7.99,8.119093588049996,4.82,3,DummyJSON Sample API,Unknown,,1.59
+groceries,Potatoes,35,2.29,2.4202071443669415,4.81,3,DummyJSON Sample API,Unknown,,5.38
+groceries,Protein Powder,36,19.99,21.631858024023373,4.18,3,DummyJSON Sample API,Unknown,,7.59
+groceries,Red Onions,37,1.99,2.20865704772475,4.2,3,DummyJSON Sample API,Unknown,,9.9
+groceries,Rice,38,5.99,6.6034615808620885,3.18,3,DummyJSON Sample API,Unknown,,9.29
+groceries,Soft Drinks,39,1.99,2.4115365971885607,4.75,3,DummyJSON Sample API,Unknown,,17.48
+groceries,Strawberry,40,3.99,4.035194174757282,3.08,3,DummyJSON Sample API,Unknown,,1.12
+groceries,Tissue Paper Box,41,2.49,2.8713099630996313,2.69,3,DummyJSON Sample API,Unknown,,13.28
+groceries,Water,42,0.99,1.16361071932299,4.96,3,DummyJSON Sample API,Unknown,,14.92
+home-decoration,Decoration Swing,43,59.99,66.96059828105815,3.16,3,DummyJSON Sample API,Unknown,,10.41
+home-decoration,Family Tree Photo Frame,44,29.99,35.22847409843769,4.53,3,DummyJSON Sample API,Unknown,,14.87
+home-decoration,House Showpiece Plant,45,39.99,43.2137454073914,4.67,3,DummyJSON Sample API,Unknown,,7.46
+home-decoration,Plant Pot,46,14.99,16.090596822670676,3.01,3,DummyJSON Sample API,Unknown,,6.84
+home-decoration,Table Lamp,47,49.99,53.80475729200301,3.55,3,DummyJSON Sample API,Unknown,,7.09
+kitchen-accessories,Bamboo Spatula,48,7.99,8.22354878550844,3.27,3,DummyJSON Sample API,Unknown,,2.84
+kitchen-accessories,Black Aluminium Cup,49,5.99,7.1013633669235325,4.46,3,DummyJSON Sample API,Unknown,,15.65
+kitchen-accessories,Black Whisk,50,9.99,11.129679144385028,3.9,3,DummyJSON Sample API,Unknown,,10.24
+kitchen-accessories,Boxed Blender,51,39.99,43.12055208108691,4.56,3,DummyJSON Sample API,Unknown,,7.26
+kitchen-accessories,Carbon Steel Wok,52,29.99,32.085161014229165,4.05,3,DummyJSON Sample API,Unknown,,6.53
+kitchen-accessories,Chopping Board,53,12.99,14.12417092530173,3.7,3,DummyJSON Sample API,Unknown,,8.03
+kitchen-accessories,Citrus Squeezer Yellow,54,8.99,10.227531285551764,4.63,3,DummyJSON Sample API,Unknown,,12.1
+kitchen-accessories,Egg Slicer,55,6.99,8.20037541060535,3.09,3,DummyJSON Sample API,Unknown,,14.76
+kitchen-accessories,Electric Stove,56,49.99,58.154955793392276,4.11,3,DummyJSON Sample API,Unknown,,14.04
+kitchen-accessories,Fine Mesh Strainer,57,9.99,10.352331606217618,3.04,3,DummyJSON Sample API,Unknown,,3.5
+kitchen-accessories,Fork,58,3.99,4.340258892635701,3.11,3,DummyJSON Sample API,Unknown,,8.07
+kitchen-accessories,Glass,59,4.99,5.419200695047785,4.02,3,DummyJSON Sample API,Unknown,,7.92
+kitchen-accessories,Grater Black,60,10.99,11.395686437163002,3.21,3,DummyJSON Sample API,Unknown,,3.56
+kitchen-accessories,Hand Blender,61,34.99,42.16678717763317,3.86,3,DummyJSON Sample API,Unknown,,17.02
+kitchen-accessories,Ice Cube Tray,62,5.99,6.027976250377377,4.71,3,DummyJSON Sample API,Unknown,,0.63
+kitchen-accessories,Kitchen Sieve,63,7.99,9.853249475890987,3.09,3,DummyJSON Sample API,Unknown,,18.91
+kitchen-accessories,Knife,64,14.99,18.474242050776436,3.26,3,DummyJSON Sample API,Unknown,,18.86
+kitchen-accessories,Lunch Box,65,12.99,14.488066027213918,4.93,3,DummyJSON Sample API,Unknown,,10.34
+kitchen-accessories,Microwave Oven,66,89.99,102.4126550586093,4.82,3,DummyJSON Sample API,Unknown,,12.13
+kitchen-accessories,Mug Tree Stand,67,15.99,17.619834710743802,2.64,3,DummyJSON Sample API,Unknown,,9.25
+kitchen-accessories,Pan,68,24.99,25.762886597938145,2.79,3,DummyJSON Sample API,Unknown,,3.0
+kitchen-accessories,Plate,69,3.99,4.304671485597152,3.65,3,DummyJSON Sample API,Unknown,,7.31
+kitchen-accessories,Red Tongs,70,6.99,8.177351427234441,4.42,3,DummyJSON Sample API,Unknown,,14.52
+kitchen-accessories,Silver Pot With Glass Cap,71,39.99,42.40721102863203,3.22,3,DummyJSON Sample API,Unknown,,5.7
+kitchen-accessories,Slotted Turner,72,8.99,10.375072129255626,3.4,3,DummyJSON Sample API,Unknown,,13.35
+kitchen-accessories,Spice Rack,73,19.99,22.73916505517006,4.87,3,DummyJSON Sample API,Unknown,,12.09
+kitchen-accessories,Spoon,74,4.99,5.067533258860567,4.03,3,DummyJSON Sample API,Unknown,,1.53
+kitchen-accessories,Tray,75,16.99,18.363597060095113,4.62,3,DummyJSON Sample API,Unknown,,7.48
+kitchen-accessories,Wooden Rolling Pin,76,11.99,13.285318559556787,2.92,3,DummyJSON Sample API,Unknown,,9.75
+kitchen-accessories,Yellow Peeler,77,5.99,6.844149908592322,4.24,3,DummyJSON Sample API,Unknown,,12.48
+laptops,Apple MacBook Pro 14 Inch Space Grey,78,1999.99,2098.4052040709266,3.65,3,DummyJSON Sample API,Unknown,Apple,4.69
+laptops,Asus Zenbook Pro Dual Screen Laptop,79,1799.99,2025.6470853027233,3.95,3,DummyJSON Sample API,Unknown,Asus,11.14
+laptops,Huawei Matebook X Pro,80,1399.99,1544.9017876848377,4.98,3,DummyJSON Sample API,Unknown,Huawei,9.38
+laptops,Lenovo Yoga 920,81,1099.99,1177.0893525949705,2.86,3,DummyJSON Sample API,Unknown,Lenovo,6.55
+laptops,New DELL XPS 13 9300 Laptop,82,1499.99,1702.4060833049598,2.67,3,DummyJSON Sample API,Unknown,Dell,11.89
+mens-shirts,Blue & Black Check Shirt,83,29.99,35.42823390431187,3.64,3,DummyJSON Sample API,Unknown,Fashion Trends,15.35
+mens-shirts,Gigabyte Aorus Men Tshirt,84,24.99,25.227135069654754,3.18,3,DummyJSON Sample API,Unknown,Gigabyte,0.94
+mens-shirts,Man Plaid Shirt,85,34.99,43.465838509316775,3.46,3,DummyJSON Sample API,Unknown,Classic Wear,19.5
+mens-shirts,Man Short Sleeve Shirt,86,19.99,21.455404100032197,2.9,3,DummyJSON Sample API,Unknown,Casual Comfort,6.83
+mens-shirts,Men Check Shirt,87,27.99,31.58429248476642,2.72,3,DummyJSON Sample API,Unknown,Urban Chic,11.38
+mens-shoes,Nike Air Jordan 1 Red And Black,88,149.99,156.43512724238633,4.77,3,DummyJSON Sample API,Unknown,Nike,4.12
+mens-shoes,Nike Baseball Cleats,89,79.99,97.59638848218643,3.88,3,DummyJSON Sample API,Unknown,Nike,18.04
+mens-shoes,Puma Future Rider Trainers,90,89.99,93.93528183716074,4.9,3,DummyJSON Sample API,Unknown,Puma,4.2
+mens-shoes,Sports Sneakers Off White & Red,91,119.99,126.26538987688097,4.77,3,DummyJSON Sample API,Unknown,Off White,4.97
+mens-shoes,Sports Sneakers Off White Red,92,109.99,110.03401360544217,4.69,3,DummyJSON Sample API,Unknown,Off White,0.04
+mens-watches,Brown Leather Belt Watch,93,89.99,95.72385916391872,4.19,3,DummyJSON Sample API,Unknown,Fashion Timepieces,5.99
+mens-watches,Longines Master Collection,94,1499.99,1812.4577090381827,3.87,3,DummyJSON Sample API,Unknown,Longines,17.24
+mens-watches,Rolex Cellini Date Black Dial,95,8999.99,9877.074187884109,4.97,3,DummyJSON Sample API,Unknown,Rolex,8.88
+mens-watches,Rolex Cellini Moonphase,96,12999.99,15761.384578079535,2.58,3,DummyJSON Sample API,Unknown,Rolex,17.52
+mens-watches,Rolex Datejust,97,10999.99,11426.186766386205,3.66,3,DummyJSON Sample API,Unknown,Rolex,3.73
+mens-watches,Rolex Submariner Watch,98,13999.99,14744.591890468668,2.69,3,DummyJSON Sample API,Unknown,Rolex,5.05
+mobile-accessories,Amazon Echo Plus,99,99.99,113.71545547594677,4.99,3,DummyJSON Sample API,Unknown,Amazon,12.07
+mobile-accessories,Apple Airpods,100,129.99,153.90717499408004,4.15,3,DummyJSON Sample API,Unknown,Apple,15.54
