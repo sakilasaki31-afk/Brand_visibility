@@ -1,3 +1,4 @@
+
 # 📊 Brand Visibility Intelligence Dashboard
 
 ## 1. Project Introduction
@@ -194,3 +195,5 @@ The project provides a foundation for analysing brand performance, pricing patte
 ---
 
 **Developed as an E-commerce Data Analytics Project.**
+
+
